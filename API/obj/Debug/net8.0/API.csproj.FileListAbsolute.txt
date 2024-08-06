@@ -142,3 +142,4 @@
 /Users/cristianleyva/Documents/proyectos NET/AuthAPI/API/obj/Debug/net8.0/API.pdb
 /Users/cristianleyva/Documents/proyectos NET/AuthAPI/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/cristianleyva/Documents/proyectos NET/AuthAPI/API/obj/Debug/net8.0/ref/API.dll
+/Users/cristianleyva/Documents/proyectos NET/AuthAPI/API/obj/Debug/net8.0/API.sourcelink.json

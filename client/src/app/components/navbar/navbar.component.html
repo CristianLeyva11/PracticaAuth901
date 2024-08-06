@@ -36,13 +36,13 @@
             <span>Cerrar Sesión</span>
           </button>
         </mat-menu>
-        <a *ngIf="userDetail?.roles.includes('Admin')" mat-button routerLink="/users">
+        <a *ngIf="userDetail?.roles.includes('admin')" mat-button routerLink="/users">
           <mat-icon>
             groups
           </mat-icon>
           Usuarios
           </a>
-          <a *ngIf="userDetail?.roles.includes('Admin')" mat-button routerLink="/roles">
+          <a *ngIf="userDetail?.roles.includes('admin')" mat-button routerLink="/roles">
             <mat-icon>
               settings
             </mat-icon>
